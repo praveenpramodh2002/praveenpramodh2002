@@ -30,5 +30,3 @@ You can click the Preview link to take a look at your changes.
 
 
 --->
-GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=praveenpramodh2002&&no-frame=true&row=1&column=7)

@@ -27,4 +27,7 @@
 <!---
 praveenpramodh2002/praveenpramodh2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=praveenpramodh2002&theme=radical&no-frame=true&row=1&column=7)
 --->
